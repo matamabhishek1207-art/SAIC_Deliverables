@@ -22,7 +22,11 @@ I thought if these were deleted, then the flag must be in this only, so I  check
 so I asked how to write code to decode the code because i never seen this type of encryption, i pasted code and ran it but nothing is showed, i checked and came to know that i need to find n and e still, and then i use -m in with the thing which i got earlier then i found the n and e and then given these values and then ran it, it gave the flag.
 
 
+# 5th Question.
+For this question, I am not able to decode the pattesrn.
 
+After downloading the PNG file, I went into the terminal, 
+And tried exiftool, which is commonly used for PNG file things, there I saw a pattern that is repeating, and I tried to write a code that can change this into a flag, but I tried so many ways. I tried these codes from AI.
 
 
 
